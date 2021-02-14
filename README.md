@@ -14,9 +14,9 @@ This project is made by using a package named discord-rpc you can view it's deta
 
 ◙ Then click onto the application under "Rich Presence" category you'll see "Art Assets" click onto that.
  
-◙ Set the cover image as the lage image of your presence◙ .
+◙ Set the cover image as the lage image of your presence.
 
-◙ Scroll down click "Add Asset" then choose a image that◙  you wanna provide as large image and small image also make sure they are atleast the size of 512 X 512.
+◙ Scroll down click "Add Asset" then choose a image that you wanna provide as large image and small image also make sure they are atleast the size of 512 X 512.
 
 ◙ Then go to the terminal of your editor type "npm init -y" after you get package.json file type "npm i discord-rpc" then the rest of the filling details are there in the file "index.js" which is your main file
 
