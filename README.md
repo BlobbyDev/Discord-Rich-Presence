@@ -6,7 +6,7 @@ This project is made by using a package named discord-rpc you can view it's deta
 [Visual Studio Code](https://code.visualstudio.com/)
 [Git](https://git-scm.com/downloads)
 
-## How to set an application??
+## How to setup ??
 Got to discord developer portal by [clicking here](https://discord.com/developers/applications) and then go to the top left corner of your screen see create application and then name it.
 #### And hey the name of the application shold be the name of the presence that u wanna give for example if you wanna keep your status playing Myself then you have to name your application Myself
 
