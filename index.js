@@ -7,8 +7,8 @@ console.log('Your presence works now check your discord profile :D')
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity: {
-    details: "", //pls fill this
-    state: "",
+    details: "", //pls fill this to mention your presence whatver you wan't your wish
+    state: "", //pls fill this to mention your presence whatever you wan't your wish
 assets: {
          large_image: "",//The name of your image that you have saved in the art asset of your application
          large_text: "", //If you wanna mention the large image when you hover your mouse then fill this whatever you want
