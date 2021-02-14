@@ -29,3 +29,7 @@ Add it to your server by [clicking here](https://discord.com/oauth2/authorize?cl
 Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
 Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
+
+<a href="https://top.gg/bot/786209866946838528">
+    <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
+</a>
