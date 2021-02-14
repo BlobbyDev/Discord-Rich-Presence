@@ -2,8 +2,8 @@
 This project is made by using a package named discord-rpc you can view it's details by [clicking here](https://www.npmjs.com/package/discord-rpc).
 
 #### Make sure you have these 3 things installed in your computer:
-[Node.js](https://nodejs.org/en/download/)
-[Visual Studio Code](https://code.visualstudio.com/)
+[Node.js](https://nodejs.org/en/download/)\n
+[Visual Studio Code](https://code.visualstudio.com/)\n
 [Git](https://git-scm.com/downloads)
 
 ## How to setup ??
