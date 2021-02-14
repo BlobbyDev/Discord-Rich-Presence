@@ -25,5 +25,7 @@ Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get 
 
 ## Check Out my Music Bot:
 Add it to your server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
+
 Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
+
 Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
