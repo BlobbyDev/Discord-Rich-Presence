@@ -1,7 +1,7 @@
 # Discord Rich Presence
 This project is made by using a package named discord-rpc you can view it's details by [clicking here](https://www.npmjs.com/package/discord-rpc) if you wanna get the easier version of this presence but note it doesn't have buttons feature just shows large image and small image if you want that then [click here](https://github.com/Dinav69/Discord-Presence)
 
-#### Make sure you have these 3 things installed in your system:
+#### Make sure you have these 4 things installed in your system:
 [Node.js](https://nodejs.org/en/download/)
 
 [Visual Studio Code](https://code.visualstudio.com/)
