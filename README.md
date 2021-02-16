@@ -9,7 +9,7 @@ This project is made by using a package named discord-rpc you can view it's deta
 [Git](https://git-scm.com/downloads)
 
 [Discord](https://discord.com/)
-## How to setup ??
+## How to setup 
 ◙ Go to discord developer portal by [clicking here](https://discord.com/developers/applications) and then go to the top left corner of your screen see create application and then name it.
 #### And hey the name of the application shold be the name of the presence that u wanna give for example if you wanna keep your status playing Myself then you have to name your application Myself
 
@@ -21,7 +21,7 @@ This project is made by using a package named discord-rpc you can view it's deta
 
 ◙ Then go to the terminal of your editor type "npm init -y" after you get package.json file type "npm i discord-rpc" then the rest of the filling details are there in the file "index.js" which is your main file
 
-## Have any other doubts ??
+## Have any other doubts ?
 Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get the additional support.
 
 ## Check Out my Music Bot:
