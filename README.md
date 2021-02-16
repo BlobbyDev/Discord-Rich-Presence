@@ -25,7 +25,7 @@ This project is made by using a package named discord-rpc you can view it's deta
 Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get the additional support.
 
 ## Check Out my Music Bot:
-Add it to your server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
+Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
 
 Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
