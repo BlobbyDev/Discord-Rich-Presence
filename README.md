@@ -46,10 +46,10 @@ assets: {
 },
 buttons : [
     {
-        label : "Click Me",url : "https://www.youtube.com/watch?v=qTksCYUgI7s" //Link you want to be redirected to
+        label : "Click Me",url : "https://www.youtube.com/watch?v=qTksCYUgI7s" //Link to be redirected when someone click on the buttons and label is the name of the button
     },
     { 
-        label : "Click Me",url : "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //Link you want to be redirected to
+        label : "Click Me",url : "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //Link to be redirected to when someone click on the buttons and label is the name of the button
     },
   
     ]
