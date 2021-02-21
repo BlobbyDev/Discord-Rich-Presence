@@ -76,10 +76,7 @@ Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
 Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
 
-<a href="https://top.gg/bot/786209866946838528">
-    <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
-</a>
-
+[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/owner/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
 
 
 
