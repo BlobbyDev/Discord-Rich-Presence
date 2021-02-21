@@ -21,6 +21,8 @@ This project is made by using a package named ```discord-rpc``` you can view it'
 
 ◙ Go to the terminal of your editor type ```npm init -y``` after you get package.json file type ```npm install discord-rpc``` then the rest of the filling details are there in the file "index.js" which is your main file
 
+![Image](https://cdn.discordapp.com/attachments/809031839032672327/812945587757776956/example.png)
+
 ## Have any other doubts ?
 Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get the additional support.
 
