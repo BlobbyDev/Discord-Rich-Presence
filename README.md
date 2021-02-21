@@ -21,7 +21,45 @@ This project is made by using a package named ```discord-rpc``` you can view it'
 
 ◙ Go to the terminal of your editor type ```npm init -y``` after you get package.json file type ```npm install discord-rpc``` then the rest of the filling details are there in the file "index.js" which is your main file
 
-#### Example:-
+#### Example Usage:-
+
+
+Index.js
+
+```js
+const rpc = require("discord-rpc")
+const client = new rpc.Client({ transport: 'ipc' })
+client.login({ clientId : "Client ID" }).catch(console.error);
+
+client.on('ready', () => {
+console.log('It works..')
+client.request('SET_ACTIVITY', {
+pid: process.pid,
+activity: {
+    details: "Hey normies !!!", //The details
+    state: "Dont mess with me", //The state
+assets: {
+         large_image: "sunglasses_", //Large image name
+         large_text: "If you mess with me", //Large image text that you wanna show whenver someone hover the cursor towards it
+         small_image: "5845cd430b2a3b54fdbaecf8", //Small image name
+         small_text: "You die !!!", //Small image text that you wanna show whenver someone hover the cursor towards it
+},
+buttons : [
+    {
+        label : "Click Me",url : "https://www.youtube.com/watch?v=qTksCYUgI7s" //Link you want to be redirected to
+    },
+    { 
+        label : "Click Me",url : "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //Link you want to be redirected to
+    },
+  
+    ]
+    }
+})
+})
+```
+
+Looks like this:-
+
 ![Image](https://cdn.discordapp.com/attachments/809031839032672327/812945587757776956/example.png)
 
 ##### You can customize to anything you want !!
