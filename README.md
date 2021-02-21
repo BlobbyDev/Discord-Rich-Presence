@@ -32,7 +32,7 @@ const client = new rpc.Client({ transport: 'ipc' })
 client.login({ clientId : "Client ID" }).catch(console.error);
 
 client.on('ready', () => {
-console.log('It works..')
+console.log('Your presence works now check your discord profile :D')
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity: {
@@ -77,6 +77,8 @@ Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
 <a href="https://top.gg/bot/786209866946838528">
     <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
 </a>
+
+
 
 
 
