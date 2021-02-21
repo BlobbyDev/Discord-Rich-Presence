@@ -21,7 +21,7 @@ This project is made by using a package named ```discord-rpc``` you can view it'
 
 ◙ Go to the terminal of your editor type ```npm init -y``` after you get package.json file type ```npm install discord-rpc``` then the rest of the filling details are there in the file "index.js" which is your main file
 
-#### Example Usage:-
+### Example Usage:-
 
 
 Index.js
@@ -77,6 +77,8 @@ Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
 <a href="https://top.gg/bot/786209866946838528">
     <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
 </a>
+
+
 
 
 
