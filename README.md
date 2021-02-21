@@ -36,8 +36,8 @@ console.log('It works..')
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity: {
-    details: "Hey normies !!!", //The details
-    state: "Dont mess with me", //The state
+    details: "Hey normies !!!", //The details, you can change to whatever you want
+    state: "Dont mess with me", //The state, you can change to whatver you want
 assets: {
          large_image: "sunglasses_", //Large image name
          large_text: "If you mess with me", //Large image text that you wanna show whenver someone hover the cursor towards it
