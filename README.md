@@ -24,7 +24,7 @@ This project is made by using a package named ```discord-rpc``` you can view it'
 #### Example:-
 ![Image](https://cdn.discordapp.com/attachments/809031839032672327/812945587757776956/example.png)
 
-##### you can customize to anything you want !!
+##### You can customize to anything you want !!
 
 ## Have any other doubts ?
 Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get the additional support.
