@@ -73,6 +73,8 @@ Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get 
 
 ![Discord](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge)
 
+![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)
+
 ## Check Out my Music Bot:
 Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
 
