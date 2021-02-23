@@ -67,12 +67,6 @@ Looks like this (this is just an example you can change to whatever you want):-
 ## Have any other doubts ?
 Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get the additional support.
 
-<a href="https://discord.gg/RWSEj6JrjJ">
-  <img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-![Discord](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge)
-
 [![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)](https://discord.gg/RWSEj6JrjJ)
 
 ## Check Out my Music Bot:
