@@ -65,7 +65,7 @@ Looks like this (this is just an example you can change to whatever you want):-
 ##### You can customize to anything you want !!
 
 ## Have any other doubts ?
-Join my discord server by [clicking here](https://discord.gg/RWSEj6JrjJ) to get the additional support.
+Join my [discord server](https://discord.gg/RWSEj6JrjJ) to get additional support.
 
 [![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)](https://discord.gg/RWSEj6JrjJ)
 
