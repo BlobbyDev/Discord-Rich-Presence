@@ -19,7 +19,10 @@ This project is made by using a package named ```discord-rpc``` you can view it'
 
 ◙ Scroll down click "Add Asset" then choose a image that you wanna provide as large image and small image also make sure they are atleast the size of 512 X 512.
 
-◙ Go to the terminal of your editor type ```npm init -y``` after you get package.json file type ```npm install discord-rpc``` then the rest of the filling details are there in the file "index.js" which is your main file
+◙ Go to the terminal of your editor type ```npm init -y``` after you get package.json file type ```npm install discord-rpc``` then the rest of the filling details are there in the file ```index.js``` which is your main file
+
+◙ After filling out the details and stuff go to the terminal and type ```node index.js```
+Note: Run use ```Command Prompt``` or ```Powershell``` if you are using discord presence in Visual Studio Code
 
 ### Example Usage:-
 
