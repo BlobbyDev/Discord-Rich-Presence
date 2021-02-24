@@ -80,7 +80,7 @@ Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
 Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
 
-[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
+[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
 
 [![Discord Bots](https://top.gg/api/widget/786209866946838528.svg)](https://top.gg/bot/786209866946838528)
 
