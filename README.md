@@ -25,41 +25,44 @@ This project is made by using a package named ```discord-rpc``` you can view it'
 
 **Note:** Run the folder on ```Command Prompt``` or ```Powershell``` if you are using discord presence in Visual Studio Code.
 
-### Example Usage:-
+### Configuration:-
 
-
-Index.js
+Go to `config.json`
 
 ```js
-const rpc = require("discord-rpc")
-const client = new rpc.Client({ transport: 'ipc' })
-client.login({ clientId : "Client ID" }).catch(console.error);
+{
+    "ClientID": "", //Take the client id from the discord developer portal
+    "LargeImage": "", //The name of your image that you have saved in the art asset of your application 
+    "LargeImageText": "", //If you wanna mention the large image when you hover your mouse then fill this whatever you want
+    "SmallImage": "", //Name of your image that you have saved in the art asset of your application
+    "SmallImageText": "", //If you wanna mention the small image when hover the cursor then fill this up whatever you want
+    "Button1": "", // Name of the first button you wanna provide
+    "Url1": "", // Link that you wanna get redirected to 
+    "Button2": "", // Name of the second button you wanna provide 
+    "Url2": "", // Link that you wanna get redirected to after clicking the button
+    "State": "", // State that you wanna mention
+    "Details": "" // Details that you wanna mention
+}
+```
 
-client.on('ready', () => {
-console.log('Your presence works now check your discord profile :D')
-client.request('SET_ACTIVITY', {
-pid: process.pid,
-activity: {
-    details: "Hey normies !!!", //The details, you can change to whatever you want
-    state: "Dont mess with me", //The state, you can change to whatver you want
-assets: {
-         large_image: "sunglasses_", //Large image name
-         large_text: "If you mess with me", //Large image text that you wanna show whenver someone hover the cursor towards it
-         small_image: "5845cd430b2a3b54fdbaecf8", //Small image name
-         small_text: "You die !!!", //Small image text that you wanna show whenver someone hover the cursor towards it
-},
-buttons : [
-    {
-        label : "Click Me",url : "https://www.youtube.com/watch?v=qTksCYUgI7s" //Link to be redirected when someone click on the buttons and label is the name of the button
-    },
-    { 
-        label : "Click Me",url : "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //Link to be redirected to when someone click on the buttons and label is the name of the button
-    },
-  
-    ]
-    }
-})
-})
+### Example Usage:-
+
+Go to `config.json`
+
+```js
+{
+    "ClientID": "790838692280926238",
+    "LargeImage": "sunglasses_", 
+    "LargeImageText": "If you mess with me",
+    "SmallImage": "5845cd430b2a3b54fdbaecf8",
+    "SmallImageText": "You die !!!",
+    "Button1": "Click Me",
+    "Url1": "https://www.youtube.com/watch?v=qTksCYUgI7s",
+    "Button2": "Click Me",
+    "Url2": "https://dis.gd/threads",
+    "State": "Hey normies !!!",
+    "Details": "Dont mess with me"
+}
 ```
 
 Looks like this (this is just an example you can change to whatever you want):-
