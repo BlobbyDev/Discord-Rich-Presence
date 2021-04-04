@@ -1,13 +1,13 @@
 {
-    "ClientID": "818092139496996864",
-    "LargeImage": "doggo", 
-    "LargeImageText": "Add Me",
-    "SmallImage": "github",
-    "SmallImageText": "Source Code",
-    "Button1": "Add It",
-    "Url1": "https://discord.com/api/oauth2/authorize?client_id=818092139496996864&permissions=8&scope=bot%20applications.commands",
-    "Button2": "Source Code",
-    "Url2": "https://github.com/Dinav69/DoggoBot",
-    "State": "Add it now !!",
-    "Details": "A Cool multipurpose bot"
+    "ClientID": "",
+    "LargeImage": "", 
+    "LargeImageText": "",
+    "SmallImage": "",
+    "SmallImageText": "",
+    "Button1": "",
+    "Url1": "",
+    "Button2": "",
+    "Url2": "",
+    "State": "",
+    "Details": ""
 }
