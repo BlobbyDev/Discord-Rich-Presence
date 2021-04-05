@@ -70,7 +70,7 @@ Looks like this (this is just an example you can change to whatever you want):-
 
 [![Image](https://cdn.discordapp.com/attachments/809031839032672327/812945587757776956/example.png)](https://discord.gg/RWSEj6JrjJ)
 
-##### You can customize to anything you want !!
+##### You can customize to anything you want all your wish but make sure you configure things in the currect manner !!
 
 ## Have any other doubts ?
 Join my [discord server](https://discord.gg/RWSEj6JrjJ) to get additional support.
