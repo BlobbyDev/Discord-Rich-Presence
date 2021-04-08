@@ -72,7 +72,7 @@ Looks like this (this is just an example you can change to whatever you want):-
 
 ##### You can customize to anything you want all your wish but make sure you configure things in the currect manner !!
 
-## Have any other doubts ?
-Join my [discord server](https://discord.gg/RWSEj6JrjJ) to get additional support.
+## Our Server
+Join our [discord server](https://discord.gg/RWSEj6JrjJ) to get additional support & also to hang out !!
 
 [![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)](https://discord.gg/RWSEj6JrjJ)
