@@ -1,19 +1,18 @@
 const rpc = require("discord-rpc");
 const client = new rpc.Client({ transport: 'ipc' });
 const config = require('./config.json');
-//Added [Debug] on console.error
-client.login({ clientId: config.ClientID }).catch('[DEBUG]' + console.error);
+
+client.login({ clientId: config.ClientID }).catch('[ERR]' + console.error);
 
 client.on('ready', () => {
-    //Ignore this Double console.log I just made it for fun!
-    console.log('[Debug] Presence now active!')
-    console.log('[Debug] Services are Running Check Profile now!')
+    console.log('[DEBUG] Presence now active!')
+    console.log('[WARN] Do not close this Console as it will terminate the rpc')
+    console.log('=================== Error Output ===================')
     client.request('SET_ACTIVITY', {
         pid: process.pid,
         activity: {
             details: config.Details,
             state: config.State,
-            // Added Time [Elapsed]
             timestamps: {
                 start: Date.now()
             },
