@@ -2,7 +2,7 @@ const rpc = require("discord-rpc");
 const client = new rpc.Client({ transport: 'ipc' });
 const config = require('./config.json');
 
-client.login({ clientId: config.ClientID }).catch('[ERR]' + console.error);
+client.login({ clientId: config.ClientID }).catch(console.error);
 
 client.on('ready', () => {
     console.log('[DEBUG] Presence now active!')
