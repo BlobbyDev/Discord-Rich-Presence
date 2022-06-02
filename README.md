@@ -68,7 +68,7 @@ Go to `config.json`
 
 Looks like this (this is just an example you can change to whatever you want):-
 
-[![Image](https://cdn.discordapp.com/attachments/809031839032672327/812945587757776956/example.png)](https://discord.gg/RWSEj6JrjJ)
+[![Image](https://cdn.discordapp.com/attachments/795222693980143616/981925555375075348/unknown.png)](https://discord.gg/RWSEj6JrjJ)
 
 ##### You can customize to anything you want all your wish but make sure you configure things in the currect manner !!
 
