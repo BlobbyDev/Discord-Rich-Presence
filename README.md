@@ -53,16 +53,16 @@ Go to `config.json`
 ```js
 {
     "ClientID": "790838692280926238",
-    "LargeImage": "sunglasses_", 
-    "LargeImageText": "If you mess with me",
+    "LargeImage": "sunglasses_",
+    "LargeImageText": "Dumb Normies",
     "SmallImage": "5845cd430b2a3b54fdbaecf8",
-    "SmallImageText": "You die !!!",
+    "SmallImageText": "Reeeeee",
     "Button1": "Click Me",
-    "Url1": "https://www.youtube.com/watch?v=qTksCYUgI7s",
+    "Url1": "https://blobby.ml",
     "Button2": "Click Me",
-    "Url2": "https://dis.gd/threads",
-    "State": "Hey normies !!!",
-    "Details": "Dont mess with me"
+    "Url2": "https://github.com/BlobbyDev/Discord-Rich-Presence",
+    "State": "You Suck",
+    "Details": "Hey Normies" 
 }
 ```
 
