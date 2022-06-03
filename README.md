@@ -44,7 +44,7 @@ Go to `config.json`
     "Details": "" // Details that you wanna mention
 }
 ```
-**Note the button won't work for you but don't worry it work for others**
+**Note the button won't work for you but don't worry it will work for others**
 
 ### Example Usage:-
 
